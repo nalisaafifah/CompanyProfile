@@ -1,0 +1,70 @@
+#hero {
+    padding-top: 5%;
+    background-image: linear-gradient(to right, #f12711, #f5af19);
+}
+.hero1{
+    margin-top: 5%;
+    padding-top: 5%;
+}
+.gambar1{
+    height: 450px;
+    margin-right: 0;
+}
+.p1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: transparent;
+    color: white;
+}
+#unggul {
+    margin-top: 10%;
+}
+#unggul span{
+    font-weight:bold
+}
+#unggul img {
+    height: auto;
+    margin-top: 5px;
+}
+
+.card {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    height: 500px;
+}
+
+#hastag {
+    margin-top: 17%;
+    background-color: #f1f2f6;
+    padding: 20px;
+    margin-bottom: 17%;
+}
+#paket .card {
+    height: auto;
+    margin-bottom: 17%;
+}
+#hubungi .container h2{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    height: 100px;
+}
+.hubungi span{
+    color: #EE5A24;
+}
+.list-icon div{
+    width: 200px;
+    height: 40px;
+    background-color: #EE5A24;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    color: white;
+
+}
+.akhir{
+    font-size: 10px;
+}
